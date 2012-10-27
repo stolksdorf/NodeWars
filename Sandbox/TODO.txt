@@ -1,0 +1,9 @@
+- Get a basic node server running with output to console
+- Spin up a new sandbox for dummy code
+- Test global scope infractions
+- Push data to the sandbox, read modified data back
+- Spin up multiple sandboxes with their own scope
+- Spool up sandboxes from local files
+
+- Run validation on needed resources, ie. init and core functions. 
+- Experiment with file dumps after battles

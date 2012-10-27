@@ -1,0 +1,26 @@
+- Setup backbone
+- Create base canvas class and entity class
+- Extend the entity class for drawing...
+	- Bots (white)
+	- Slugs (red)
+	- Radar (Yellow)
+	- Shields (blue)
+	- Velocity markers (green)
+
+
+- Spin up a canvas and draw the basic shapes
+- Animate an object without stuttering
+- Emulate the data feed via a json object
+- Draw the specific aestetchic of geometry wars. Glowing thick borders, semi-transparent inside
+
+
+==Adv
+- Draw basic grid cross hairs
+- Add semi textured background
+- Add scroll to zoom in and out of the canvas
+- Add click and drag to move canvas around
+- Create tooltips on mouse hover for all objects
+- Add ability to select 
+
+==Res
+http://simonsarris.com/blog/510-making-html5-canvas-useful

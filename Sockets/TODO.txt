@@ -1,0 +1,10 @@
+- Spin up a canvas and draw the basic shapes
+- Animate an object without stuttering
+- Emulate the data feed via a json object
+- Draw the specific aestetchic of geometry wars. Glowing thick borders, semi-transparent inside
+
+
+==Adv
+- Draw basic grid cross hairs
+- Add semi textured background
+- Add scroll to zoom in and out of the canvas
